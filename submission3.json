@@ -1,0 +1,9 @@
+{
+  "prompt": "Create a single-frame image that renders the machine learning concept of gradient descent within the visual tradition of late-19th-century naturalist scientific lithography. The scene should look like a historical scientific plate rather than a modern infographic. Show a mountainous landscape treated like a naturalist specimen study, where a dark spherical marker descends step by step along a sloped valley toward a single low basin, making the logic of iterative downhill optimization visually legible. Use the grammar of 19th-century naturalist illustration: hand-inked contour line work, engraved textures, muted hand-tinted earth tones, parchment paper, careful compositional framing, and the visual seriousness of a field-science plate from the 1870s–1890s. Avoid glossy digital rendering, modern typography, neon colors, 3D UI aesthetics, or contemporary infographic styling. The concept of gradient descent should remain discernible, but the image must feel authentically rooted in the historical tradition's line quality, palette, and compositional logic.",
+  "model": "DALL·E 3",
+  "concept": "gradient descent",
+  "tradition_name": "19th-century naturalist scientific lithography",
+  "tradition_period": "1870s–1890s",
+  "tradition_approach": "Targeted engraved contour lines, muted hand-tinted earth palette, parchment texture, and specimen-plate framing to make optimization read through a historical naturalist visual grammar.",
+  "publish_email": true
+}
