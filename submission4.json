@@ -1,0 +1,7 @@
+{
+  "prompt": "Create a single-frame, photorealistic editorial image for the paradox The Birthday Problem. Show a warm, intimate birthday gathering with about two dozen guests around a table in a real apartment or small event room — clearly a modest group, not a crowd. The uncanny focal idea: among many handmade birthday crowns, favors, or miniature cakes that all look different, two guests unexpectedly possess celebration details that are perfectly identical down to tiny, highly specific decorative flaws, making the coincidence feel strangely impossible in such a small room. The image should communicate that a surprising match can emerge far sooner than intuition expects. Make the emotional tone subtle: cheerful on the surface, but with a quiet, eerie sense of coincidence once the viewer notices the duplicate. Composition should guide the eye naturally through the small gathering and then reward close looking with the exact duplicated pair. No text, no numbers, no calendars, no clocks, no printed dates, no charts, no formulas, no labels, no mathematical symbols, no literal probability imagery, no infographic layout. Avoid oversized crowds. Everything must feel physically plausible, cinematic, and magazine-quality.",
+  "model": "DALL·E 3",
+  "paradox": "The Birthday Problem",
+  "visual_logic": "A modest birthday gathering contains one uncannily exact duplicate among many unique celebrations, making a collision feel disturbingly common in a small group.",
+  "publish_email": true
+}
